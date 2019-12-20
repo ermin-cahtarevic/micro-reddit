@@ -3,12 +3,24 @@
 > A simple Ruby on Rails App - Building with Active Record.
 
 
-Simple app built for practice, working with rails models and validations.
+The project consisted of adding multiple models, creating the migrations, adding validations and associations between the models.
+ - First task was creating the User model and the validations for name and email
+ - Then, to create the Post model and the validations for title and text
+ - In the next step we needed to set up associations between the User and Post model
+ - Next was testing those associations between the two models
+ - After that we needed to create the Comment model and the validations for the text
+ - The next step consisted of adding associations between the User, Post and Comment models
+   - After this step the User should be able to create many Posts, and add many Comments on different Posts
+   - A Post should belong only to the user who wrote it
+   - A Comment should belong to only one post, and only one user
+ - The last step was to test out the associations between the three models
+ 
+ The original project requirments can be found on The Odin Project - [Micro Reddit](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails#project-2-micro-reddit)
 
 ## Built With
 
-- Ruby
-- Ruby on Rails
+- Ruby (version 2.6.3)
+- Ruby on Rails (version 5.2.4)
 
 ## Authors
 
