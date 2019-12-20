@@ -24,7 +24,7 @@ Simple app built for practice, working with rails models and validations.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/ermin-cahtarevic/micro-reddit/issues).
 
 ## Show your support
 
