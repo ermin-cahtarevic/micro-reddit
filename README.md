@@ -1,24 +1,36 @@
-# README
+# Micro Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A simple Ruby on Rails App - Building with Active Record.
 
-Things you may want to cover:
 
-* Ruby version
+Simple app built for practice, working with rails models and validations.
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby
+- Ruby on Rails
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 **Ermin Cahtarevic**
 
-* How to run the test suite
+- Github: [@ermin-cahtarevic](https://github.com/ermin-cahtarevic)
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Vashira Samaila**
 
-* Deployment instructions
+- Github: [@Vashiramusa](https://github.com/Vashiramusa)
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+- The Odin Project
